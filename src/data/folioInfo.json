@@ -22,6 +22,7 @@
             "project": "Petition project",
             "description": "Built with Node.js and PostgreSQL, users can log-in and digitally sign a petition based on the chosen cause and see a list of others users who have supported said cause",
             "img": "petition_thumbnail.jpg",
+            "alt": "petition_project_thumbnail",
             "url": "https://brexit-petition.herokuapp.com/"
         },
         {
@@ -30,6 +31,7 @@
             "project": "Connect 4 Game",
             "description": "A simple web-app, created using HTML5, CSS3, vanilla JS and jQuery, with localstorage implemention to retain high-scores.",
             "img": "connect4_thumbnail.jpg",
+            "alt": "connect4_thumbnail",
             "url": "https://connect-4-retro.herokuapp.com/"
         },
         {
@@ -38,6 +40,8 @@
             "project": "Todo list app",
             "description": "A simple todo app made with React using hooks and context",
             "img": "todo_thumbnail.png",
+            "alt": "todo_app_thumbnail",
+
             "url": "https://todo-hooks.herokuapp.com/"
         },
 
@@ -47,6 +51,7 @@
             "project": "Memory Game",
             "description": "A React based memory-game, made using hooks/localstorage",
             "img": "memory_game_thumbnail.jpg",
+            "alt": "memory_game_thumbnail",
             "url": "https://memory-game2020.herokuapp.com/"
         }
     ]
