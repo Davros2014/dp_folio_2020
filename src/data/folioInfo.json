@@ -1,0 +1,53 @@
+[
+        {
+            "id": 1,
+            "folder": "Imageboard",
+            "project": "Imageboard Project",
+            "description": "An instagram style, single-page application with Vue.js that allows users to upload images, add a title and a description, and view and post comments.",
+            "img": "imageboard_thumbnail.jpg",
+            "url": "https://imageboard2020.herokuapp.com/"
+        },
+        {
+            "id": 2,
+            "folder": "Social_media_network",
+            "project": "Social Media Project",
+            "description": "Social network project - allows users to create a profile, connect with one another, and use a messaging service. Created using React with Redux, Node.js, Express and PostgreSQL",
+            "img": "social_media_thumbnail.jpg",
+            "url": "https://github.com/Davros2014/Social_network"
+        },
+
+        {
+            "id": 3,
+            "folder": "Petition_project",
+            "project": "Petition project",
+            "description": "Built with Node.js and PostgreSQL, users can log-in and digitally sign a petition based on the chosen cause and see a list of others users who have supported said cause",
+            "img": "petition_thumbnail.jpg",
+            "url": "https://brexit-petition.herokuapp.com/"
+        },
+        {
+            "id": 4,
+            "folder": "Connect_4_game",
+            "project": "Connect 4 Game",
+            "description": "A simple web-app, created using HTML5, CSS3, vanilla JS and jQuery, with localstorage implemention to retain high-scores.",
+            "img": "connect4_thumbnail.jpg",
+            "url": "https://connect-4-retro.herokuapp.com/"
+        },
+        {
+            "id": 5,
+            "folder": "To_do_list",
+            "project": "Todo list app",
+            "description": "A simple todo app made with React using hooks and context",
+            "img": "todo_thumbnail.png",
+            "url": "https://todo-hooks.herokuapp.com/"
+        },
+
+        {
+            "id": 6,
+            "folder": "Memory_game",
+            "project": "Memory Game",
+            "description": "A React based memory-game, made using hooks/localstorage",
+            "img": "memory_game_thumbnail.jpg",
+            "url": "https://memory-game2020.herokuapp.com/"
+        }
+    ]
+}
